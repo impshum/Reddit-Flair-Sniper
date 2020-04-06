@@ -1,0 +1,5 @@
+praw
+schedule
+configparser
+pickledb
+requests
