@@ -1,6 +1,6 @@
 ## Reddit Flair Sniper
 
-Reposts or crossposts submissions with certain flairs to chosen subreddits
+Reposts or crossposts submissions with certain flairs to different subreddits. Runs every hour.
 
 ### Instructions
 
